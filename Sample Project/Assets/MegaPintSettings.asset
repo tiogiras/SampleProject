@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: effa5197b25d4b6c8f48ed3c4c36ff09, type: 3}
+  m_Name: MegaPintSettings
+  m_EditorClassIdentifier: 
+  _settings:
+  - name: PlayModeStartScene
+    structValues:
+      entries: []
+    stringValues:
+      entries:
+      - key: startSceneGUID
+        value: 
+    floatValues:
+      entries: []
+    boolValues:
+      entries:
+      - key: DisplayToolbarToggle
+        value: 1
+      - key: toggleState
+        value: 0
+    intValues:
+      entries: []
+  - name: AutoSave
+    structValues:
+      entries: []
+    stringValues:
+      entries:
+      - key: duplicatePath
+        value: Assets
+    floatValues:
+      entries: []
+    boolValues:
+      entries:
+      - key: DisplayToolbarToggle
+        value: 1
+      - key: IsActive
+        value: 0
+    intValues:
+      entries:
+      - key: interval
+        value: 30
+      - key: saveMode
+        value: 0
+  - name: BATesting
+    structValues:
+      entries: []
+    stringValues:
+      entries: []
+    floatValues:
+      entries: []
+    boolValues:
+      entries:
+      - key: AgreedToTerms
+        value: 0
+    intValues:
+      entries:
+      - key: LogSaveInterval
+        value: 10
+  - name: General
+    structValues:
+      entries: []
+    stringValues:
+      entries:
+      - key: TesterToken
+        value: 
+    floatValues:
+      entries: []
+    boolValues:
+      entries:
+      - key: DevMode
+        value: 0
+      - key: UseToolbarIcons
+        value: 1
+      - key: ApplyPS_BaseWindow
+        value: 1
+      - key: ApplyPS_PackageManager
+        value: 0
+    intValues:
+      entries:
+      - key: EditorTheme
+        value: 0

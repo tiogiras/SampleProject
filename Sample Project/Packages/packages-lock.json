@@ -1,5 +1,49 @@
 {
   "dependencies": {
+    "com.tiogiras.megapint": {
+      "version": "https://github.com/tiogiras/MegaPint.git#development",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "dd0463e41e4f6cf62d904006c4c639ad98fcba9a"
+    },
+    "com.tiogiras.megapint-autosave": {
+      "version": "https://github.com/tiogiras/MegaPint-AutoSave.git#development",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "20039f92fbf2961264e31dfe3bfdb0249a724ea6"
+    },
+    "com.tiogiras.megapint-batesting": {
+      "version": "https://github.com/tiogiras/MegaPint-BATesting.git#development",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.7.0"
+      },
+      "hash": "9ae22c3f74004f88f03af56d8bb448783f539db4"
+    },
+    "com.tiogiras.megapint-playmodestartscene": {
+      "version": "https://github.com/tiogiras/megapint-playmodestartscene.git#development",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "009c5af898f5a63e1406ed1ac4efc574cbb2fa68"
+    },
+    "com.tiogiras.megapint-screenshot": {
+      "version": "https://github.com/tiogiras/MegaPint-Screenshot.git#development",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "47ad7d4eb6efd0292eb01dcc3970118960b3b051"
+    },
+    "com.tiogiras.megapint-validators": {
+      "version": "https://github.com/tiogiras/MegaPint-Validators.git#development",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ab7fe56bdb67e77b8690e760a5e523c8392ebcab"
+    },
     "com.unity.collab-proxy": {
       "version": "2.4.4",
       "depth": 0,
@@ -58,6 +102,15 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.7.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.performance.profile-analyzer": {
