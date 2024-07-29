@@ -13,6 +13,42 @@ MonoBehaviour:
   m_Name: MegaPintSettings
   m_EditorClassIdentifier: 
   _settings:
+  - name: General
+    structValues:
+      entries: []
+    stringValues:
+      entries:
+      - key: TesterToken
+        value: 
+    floatValues:
+      entries: []
+    boolValues:
+      entries:
+      - key: DevMode
+        value: 0
+      - key: ApplyPS_BaseWindow
+        value: 0
+      - key: UseToolbarIcons
+        value: 1
+    intValues:
+      entries:
+      - key: EditorTheme
+        value: 0
+  - name: BATesting
+    structValues:
+      entries: []
+    stringValues:
+      entries: []
+    floatValues:
+      entries: []
+    boolValues:
+      entries:
+      - key: AgreedToTerms
+        value: 0
+    intValues:
+      entries:
+      - key: LogSaveInterval
+        value: 10
   - name: PlayModeStartScene
     structValues:
       entries: []
@@ -50,42 +86,4 @@ MonoBehaviour:
       - key: interval
         value: 30
       - key: saveMode
-        value: 0
-  - name: BATesting
-    structValues:
-      entries: []
-    stringValues:
-      entries: []
-    floatValues:
-      entries: []
-    boolValues:
-      entries:
-      - key: AgreedToTerms
-        value: 0
-    intValues:
-      entries:
-      - key: LogSaveInterval
-        value: 10
-  - name: General
-    structValues:
-      entries: []
-    stringValues:
-      entries:
-      - key: TesterToken
-        value: 
-    floatValues:
-      entries: []
-    boolValues:
-      entries:
-      - key: DevMode
-        value: 0
-      - key: UseToolbarIcons
-        value: 1
-      - key: ApplyPS_BaseWindow
-        value: 1
-      - key: ApplyPS_PackageManager
-        value: 0
-    intValues:
-      entries:
-      - key: EditorTheme
         value: 0
