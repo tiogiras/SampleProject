@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &5453489631366240126
+--- !u!1 &3503308249141256981
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,9 +8,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 6758546928537685437}
-  - component: {fileID: 4009552487037410451}
-  - component: {fileID: 6241284977358304981}
+  - component: {fileID: 5299051917962473233}
+  - component: {fileID: 1360079784268278302}
+  - component: {fileID: 1012901350233375582}
   m_Layer: 5
   m_Name: Test Validation Prefab
   m_TagString: Untagged
@@ -18,13 +18,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!4 &6758546928537685437
+--- !u!4 &5299051917962473233
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5453489631366240126}
+  m_GameObject: {fileID: 3503308249141256981}
   serializedVersion: 2
   m_LocalRotation: {x: 0.31670624, y: -0.91875744, z: 0.2312491, w: 0.045889474}
   m_LocalPosition: {x: 6, y: -2, z: 7}
@@ -33,34 +33,34 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4009552487037410451
+--- !u!114 &1360079784268278302
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5453489631366240126}
+  m_GameObject: {fileID: 3503308249141256981}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1e204cf03b664f168d9efa980bf6409f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &6241284977358304981
+--- !u!114 &1012901350233375582
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5453489631366240126}
+  m_GameObject: {fileID: 3503308249141256981}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec8d3441f27a96e41a686dea72d5b2d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _requirements:
-  - rid: 1543758974355243011
-  - rid: 1543758974355243012
-  - rid: 1543758974355243013
+  - rid: 1543758976125763584
+  - rid: 1543758976125763585
+  - rid: 1543758976125763586
   defaultSettings: []
   _importedSettings: []
   importedSettingsFoldout: 0
@@ -68,35 +68,35 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 1543758974355243011
+    - rid: 1543758976125763584
       type: {class: RequireDefaultTransform, ns: MegaPint.ValidationRequirement.Requirements.TransformValidation, asm: tiogiras.megapint.validators.runtime}
       data:
         preventListHeaderIssues: 
         initialized: 1
-        uniqueID: 14bc6cea-13aa-4cec-944e-6b31e406007d
+        uniqueID: e8380eed-589f-4fe4-a4b8-f5a1f8990731
         severityOverwrite: 0
-        targetGameObject: {fileID: 5453489631366240126}
-        objectReference: {fileID: 6241284977358304981}
+        targetGameObject: {fileID: 3503308249141256981}
+        objectReference: {fileID: 1012901350233375582}
         _defaultPosition: 1
         _defaultRotation: 1
         _defaultScale: 0
-    - rid: 1543758974355243012
+    - rid: 1543758976125763585
       type: {class: RequireGameObjectActive, ns: MegaPint.ValidationRequirement.Requirements.GameObjectValidation, asm: tiogiras.megapint.validators.runtime}
       data:
         preventListHeaderIssues: 
         initialized: 1
-        uniqueID: cb8783bb-8ca0-446a-a90f-277ecf6dcc1e
+        uniqueID: dc199295-0540-4527-9821-2eb9d982d74c
         severityOverwrite: 0
-        targetGameObject: {fileID: 5453489631366240126}
-        objectReference: {fileID: 6241284977358304981}
+        targetGameObject: {fileID: 3503308249141256981}
+        objectReference: {fileID: 1012901350233375582}
         _targetState: 1
-    - rid: 1543758974355243013
+    - rid: 1543758976125763586
       type: {class: RequireLayer, ns: MegaPint.ValidationRequirement.Requirements.GameObjectValidation, asm: tiogiras.megapint.validators.runtime}
       data:
         preventListHeaderIssues: 
         initialized: 1
-        uniqueID: 3abcfd2b-d313-42dd-8041-1a296803b782
+        uniqueID: ea904334-45dc-4fc1-a96c-a389d4f382a0
         severityOverwrite: 0
-        targetGameObject: {fileID: 5453489631366240126}
-        objectReference: {fileID: 6241284977358304981}
+        targetGameObject: {fileID: 3503308249141256981}
+        objectReference: {fileID: 1012901350233375582}
         _layerName: Default

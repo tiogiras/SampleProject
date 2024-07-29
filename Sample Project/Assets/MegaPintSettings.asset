@@ -45,6 +45,8 @@ MonoBehaviour:
       entries:
       - key: AgreedToTerms
         value: 0
+      - key: ApplyPSOverview
+        value: 0
     intValues:
       entries:
       - key: LogSaveInterval
@@ -86,4 +88,257 @@ MonoBehaviour:
       - key: interval
         value: 30
       - key: saveMode
+        value: 0
+  - name: TestData
+    structValues:
+      entries: []
+    stringValues:
+      entries: []
+    floatValues:
+      entries:
+      - key: b37e9496-ab45-4168-8ba8-eb4cdef5eb30_1
+        value: 0
+      - key: eed60188-e9ea-4bba-9ea2-ab549cc5ddbb_1
+        value: 0
+      - key: f841837e-80b6-4213-8dd8-5d41fa4e2956_1
+        value: 0
+      - key: 99945db2-be50-4433-b3d0-15439545a9aa_1
+        value: 0
+      - key: a7f3d486-443c-4b55-b85d-fd4aa1889848_1
+        value: 0
+      - key: b8791b44-9afa-4d66-a1e5-9d910d1d8182_1
+        value: 0
+      - key: 46fdb08c-e3c6-43f8-b2a8-0d8035b7eeb2_1
+        value: 0
+      - key: eed4d8f1-12ed-442a-9a80-673de9574ca9_1
+        value: 0
+      - key: 0210b296-e380-44e1-9cb7-6af99ad01154_1
+        value: 0
+      - key: 5668c373-a866-4b74-91c3-ca892e2d476c_1
+        value: 0
+      - key: 337c0814-8b48-41ff-8e86-b1ac1aa12a46_1
+        value: 0
+      - key: e5f6c875-9d64-4c36-8005-b2afde126a00_1
+        value: 0
+      - key: ae56f367-b4a0-4ce0-9b82-604aea5018f9_1
+        value: 0
+      - key: fde96104-e874-4845-a709-286d7d32f8a0_1
+        value: 0
+      - key: f6209f50-fdee-4fae-86ce-8880373eb8c4_1
+        value: 0
+      - key: 671952be-bbbb-4b96-b321-0980dc1eb735_1
+        value: 0
+      - key: fd00672d-5d21-4596-992a-f24ab13c2c54_1
+        value: 0
+      - key: c2d2c866-ef3f-4d37-b130-fd3e492d0fa3_1
+        value: 0
+      - key: 107edeea-6cce-4915-9806-fa35ce3bad22_1
+        value: 0
+      - key: 6f0a2c8b-3d16-4950-8310-ea8544565d66_1
+        value: 0
+      - key: 48fb8051-dd63-49d0-bf7d-69168856184b_1
+        value: 0
+      - key: df94f98c-b87b-4d84-a6eb-1b9b98a53fe0_1
+        value: 0
+      - key: b3ea6f85-705d-49f0-89fb-e50ee3fed13d_1
+        value: 0
+      - key: e985c179-6077-458f-bce8-1560c384944f_1
+        value: 0
+      - key: 89957b5e-2c6a-473a-9436-e89ac0e52f32_1
+        value: 0
+      - key: 4ad53ad7-9a12-4d29-a4ef-9e96d70df783_1
+        value: 0
+      - key: b08b1276-6a4a-460d-9cb7-77f320c3ef4c_1
+        value: 0
+      - key: 81010357-e2c0-4237-b362-3a9ddf70d586_1
+        value: 0
+      - key: be537a9a-2f82-46b0-b57d-4ad720545dbe_1
+        value: 0
+      - key: 1711eea0-58fa-4f8e-9c93-8de2d37387ea_1
+        value: 0
+      - key: 929337be-e3c1-4c44-8b3c-43393c63da6b_1
+        value: 0
+      - key: 6dd65190-15ae-4c16-8013-87f3a7303f19_1
+        value: 0
+      - key: 4077c39e-51b0-4677-9852-efeeb52dc777_1
+        value: 0
+      - key: 7a3b50e3-4989-4ccf-95f3-ac3fa34a128c_1
+        value: 0
+      - key: 2b76d34d-ee6c-4822-bbd2-b8406bb37029_1
+        value: 0
+      - key: 816c5a9d-5937-4814-b3a1-f7dd8750d080_1
+        value: 0
+      - key: f223d138-06fa-487b-808c-0d1c501901f8_1
+        value: 0
+      - key: c427313c-8295-4f0d-be91-88768bb6c292_1
+        value: 0
+    boolValues:
+      entries:
+      - key: Welcome_0
+        value: 0
+      - key: Test Procedure I_0
+        value: 0
+      - key: Test Procedure II_0
+        value: 0
+      - key: Test Procedure II (Active)_0
+        value: 0
+      - key: MegaPint Basics_0
+        value: 0
+      - key: MegaPint Basics (Active)_0
+        value: 0
+      - key: Test Overview_0
+        value: 0
+      - key: Introduction Screenshots_0
+        value: 0
+      - key: Introduction (Active)_0
+        value: 0
+      - key: Manual Screenshots_0
+        value: 0
+      - key: Manual Screenshots (Active)_0
+        value: 0
+      - key: Upload Screenshots 1_0
+        value: 0
+      - key: Runtime Screenshots 1_0
+        value: 0
+      - key: Runtime Screenshots 1 (Active)_0
+        value: 0
+      - key: Upload Screenshots 2_0
+        value: 0
+      - key: Runtime Screenshots 2_0
+        value: 0
+      - key: Runtime Screenshots 2 (Active)_0
+        value: 0
+      - key: Upload Screenshots 3_0
+        value: 0
+      - key: Screenshot Survey_0
+        value: 0
+      - key: Introduction Validators_0
+        value: 0
+      - key: ValidatableMonoBehaviour_0
+        value: 0
+      - key: ValidatableMonoBehaviour (Active)_0
+        value: 0
+      - key: Validator Settings_0
+        value: 0
+      - key: Validator Settings (Active)_0
+        value: 0
+      - key: Validator View_0
+        value: 0
+      - key: Validator View (Active)_0
+        value: 0
+      - key: Take A Break_0
+        value: 0
+      - key: Repair A Scene I_0
+        value: 0
+      - key: Repair A Scene I (Active)_0
+        value: 0
+      - key: Repair A Scene II_0
+        value: 0
+      - key: Repair A Scene II (Active)_0
+        value: 0
+      - key: Repair A Scene III_0
+        value: 0
+      - key: Repair A Scene III (Active)_0
+        value: 0
+      - key: Create Your Own Requirement_0
+        value: 0
+      - key: Create Your Own Requirement (Active)_0
+        value: 0
+      - key: Validators Survey_0
+        value: 0
+      - key: General Survey_0
+        value: 0
+      - key: Upload Results_0
+        value: 0
+      - key: 5bda85a4-72fe-4104-a412-6e9d4241dbe5_0
+        value: 0
+      - key: e829c355-abc9-4f81-a147-2505e7d808f8_0
+        value: 0
+      - key: 89cf5efa-8700-41d0-bd13-29c189d6e9c7_0
+        value: 0
+      - key: 20aef4c4-a849-49b7-8384-75e075e3b8fb_0
+        value: 0
+      - key: c165d9a0-1c1d-4650-96a4-5d804e029f99_0
+        value: 0
+      - key: 75458aad-0e46-4573-ad28-b6f26f0f70d3_0
+        value: 0
+      - key: 7797d99f-11ba-4aa0-86bb-f606927d0372_0
+        value: 0
+      - key: f5447c30-ab59-4346-86fd-e3b8b39b927e_0
+        value: 0
+      - key: 214ac0b9-30f7-4eaa-b968-35857fffbb81_0
+        value: 0
+      - key: 01e7e654-d311-431e-93b1-045f7a4bbd3e_0
+        value: 0
+      - key: 7e148569-940a-4dba-b56e-21d95be348ae_0
+        value: 0
+      - key: e36311e2-8ba0-4c14-a898-1a2c3249dbe5_0
+        value: 0
+      - key: 713c9ef0-0aef-4d6d-a14d-6861217e85cf_0
+        value: 0
+      - key: 2e42477a-e4a5-478f-a8b7-77995a1c6e37_0
+        value: 0
+      - key: 8d5147be-4cfd-411d-9bab-3be4681bd107_0
+        value: 0
+      - key: 22cfe7db-308d-4333-a32c-cb58ab5173ca_0
+        value: 0
+      - key: 4a0c320f-9f7c-424a-8633-3b7124ae89f2_0
+        value: 0
+      - key: c871d95e-f005-4927-b6ba-eaa24ba5b868_0
+        value: 0
+      - key: 72b7c789-0156-4215-a0e2-69861c24d19a_0
+        value: 0
+      - key: 510cd1ec-cde4-4ef1-b9a1-0aadcf7c80b7_0
+        value: 0
+      - key: 204ac9b6-5bbe-45c0-9150-6e46b3974a78_0
+        value: 0
+      - key: 34398ddb-21ba-4d05-8132-e75c7bb4f07c_0
+        value: 0
+      - key: 6b0fe0eb-cd00-48c1-85a1-6664f3f7882a_0
+        value: 0
+      - key: 46c4f576-4dd5-49ad-8b15-efc008859a30_0
+        value: 0
+      - key: 88fcbb71-0ae0-4883-9b75-beaa17146b47_0
+        value: 0
+      - key: 3d535042-6bf0-41af-a0cc-293633c86753_0
+        value: 0
+      - key: 118364c5-6327-4b95-bdf9-3ee0b0797df2_0
+        value: 0
+      - key: 3bae9feb-9095-47b1-97d1-3fa4e0dec1e9_0
+        value: 0
+      - key: befb53d1-6ad0-4dad-9e5f-b7e110101ec7_0
+        value: 0
+      - key: 48071f83-1a98-4fc3-b3bc-c6273c5cc7b4_0
+        value: 0
+      - key: 5b8fc1ff-b5d9-43eb-b404-f9ce9cf912be_0
+        value: 0
+      - key: e6747689-deb8-43df-a1e1-40c7b2a35360_0
+        value: 0
+      - key: b7667be1-60a3-49f3-9d45-023810e4f268_0
+        value: 0
+      - key: 51c2d058-adfe-415b-a7ff-942189db7fac_0
+        value: 0
+      - key: 012362cb-508c-4539-ab58-8b8dee806f82_0
+        value: 0
+      - key: c29c1498-f49d-46b5-9609-95a685924fd2_0
+        value: 0
+      - key: 41d753db-3ab6-4e7f-a3a7-6613955b1cf3_0
+        value: 0
+      - key: 660a7cdc-d254-4371-82ec-675fb724e404_0
+        value: 0
+      - key: b8ebe24d-47b0-496a-9184-f3eb1a39f380_0
+        value: 0
+      - key: 38c6f434-b6b6-45e6-966f-c16ffda6f7a2_0
+        value: 0
+      - key: 25cff263-b3c0-4c04-b3c1-c9406b13d347_0
+        value: 0
+      - key: d6a0933f-a2ce-4e6c-9b0f-f1995a42c5d9_0
+        value: 0
+      - key: 9696b528-9b7e-4f0b-ae2c-1f85cd899ca7_0
+        value: 0
+      - key: c29fea43-6902-4286-a6c4-e7532df25d5a_0
+        value: 0
+    intValues:
+      entries:
+      - key: TM_0
         value: 0

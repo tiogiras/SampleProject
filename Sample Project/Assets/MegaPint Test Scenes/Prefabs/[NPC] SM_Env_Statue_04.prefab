@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &7724857441522267479
+--- !u!1 &1832914867811081493
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,12 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8282409965276515380}
-  - component: {fileID: 8228002527412581035}
-  - component: {fileID: 812175846098372369}
-  - component: {fileID: 1053087508616941264}
-  - component: {fileID: 6056160091037382683}
-  - component: {fileID: 8456470360677064584}
+  - component: {fileID: 2544355808169916370}
+  - component: {fileID: 7435909973404930239}
+  - component: {fileID: 1977705393605593544}
+  - component: {fileID: 3072093859939776725}
+  - component: {fileID: 5504091632094544992}
+  - component: {fileID: 6233111924669494416}
   m_Layer: 0
   m_Name: '[NPC] SM_Env_Statue_04'
   m_TagString: Untagged
@@ -21,13 +21,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8282409965276515380
+--- !u!4 &2544355808169916370
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7724857441522267479}
+  m_GameObject: {fileID: 1832914867811081493}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -36,21 +36,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &8228002527412581035
+--- !u!33 &7435909973404930239
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7724857441522267479}
+  m_GameObject: {fileID: 1832914867811081493}
   m_Mesh: {fileID: 4300000, guid: 9dcdbc597a62deb42a6d61503faf9273, type: 3}
---- !u!23 &812175846098372369
+--- !u!23 &1977705393605593544
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7724857441522267479}
+  m_GameObject: {fileID: 1832914867811081493}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -86,13 +86,13 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1053087508616941264
+--- !u!64 &3072093859939776725
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7724857441522267479}
+  m_GameObject: {fileID: 1832914867811081493}
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -108,28 +108,28 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 9dcdbc597a62deb42a6d61503faf9273, type: 3}
---- !u!114 &6056160091037382683
+--- !u!114 &5504091632094544992
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7724857441522267479}
+  m_GameObject: {fileID: 1832914867811081493}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1e204cf03b664f168d9efa980bf6409f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &8456470360677064584
+--- !u!114 &6233111924669494416
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7724857441522267479}
+  m_GameObject: {fileID: 1832914867811081493}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76a700a15ca04b27b0d33b4540ab0647, type: 3}
+  m_Script: {fileID: 11500000, guid: 2aee132242fb48349615ef0a56431984, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _requirements: []
@@ -137,6 +137,8 @@ MonoBehaviour:
   _importedSettings: []
   importedSettingsFoldout: 0
   settingPriorities: []
+  _health: 0
+  _name: 
   references:
     version: 2
     RefIds: []
