@@ -21,7 +21,7 @@
       "dependencies": {
         "com.unity.inputsystem": "1.7.0"
       },
-      "hash": "80dd94d7102de63d53c58ab9f941dcf5ae7eaa9b"
+      "hash": "6d092700ffd6f1d44066016e8175086937ac0b05"
     },
     "com.tiogiras.megapint-playmodestartscene": {
       "version": "https://github.com/tiogiras/megapint-playmodestartscene.git#development",
