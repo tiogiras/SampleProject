@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "dd0463e41e4f6cf62d904006c4c639ad98fcba9a"
+      "hash": "05258e0fb194c94e2aad41a45a2babb1d7df1e3c"
     },
     "com.tiogiras.megapint-autosave": {
       "version": "https://github.com/tiogiras/MegaPint-AutoSave.git#development",
