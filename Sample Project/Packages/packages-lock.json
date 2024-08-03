@@ -1,48 +1,48 @@
 {
   "dependencies": {
     "com.tiogiras.megapint": {
-      "version": "https://github.com/tiogiras/MegaPint.git#development",
+      "version": "https://github.com/tiogiras/MegaPint.git#v1.3.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "05258e0fb194c94e2aad41a45a2babb1d7df1e3c"
+      "hash": "3ced926f2460b12a00a928b92f6ec2c8628ee446"
     },
     "com.tiogiras.megapint-autosave": {
-      "version": "https://github.com/tiogiras/MegaPint-AutoSave.git#development",
+      "version": "https://github.com/tiogiras/MegaPint-AutoSave.git#v1.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "20039f92fbf2961264e31dfe3bfdb0249a724ea6"
+      "hash": "099cb50430935e9b4247ac66a8ee5053c2920b57"
     },
     "com.tiogiras.megapint-batesting": {
-      "version": "https://github.com/tiogiras/MegaPint-BATesting.git#development",
+      "version": "https://github.com/tiogiras/MegaPint-BATesting.git#v1.0.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.inputsystem": "1.7.0"
       },
-      "hash": "6d092700ffd6f1d44066016e8175086937ac0b05"
+      "hash": "25b71b52c77b41a801a1201d960f776d7c9ae477"
     },
     "com.tiogiras.megapint-playmodestartscene": {
-      "version": "https://github.com/tiogiras/megapint-playmodestartscene.git#development",
+      "version": "https://github.com/tiogiras/megapint-playmodestartscene.git#v1.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "009c5af898f5a63e1406ed1ac4efc574cbb2fa68"
+      "hash": "b57f8dd18eaf316a780383b8ffd2ffc4ba5d0287"
     },
     "com.tiogiras.megapint-screenshot": {
-      "version": "https://github.com/tiogiras/MegaPint-Screenshot.git#development",
+      "version": "https://github.com/tiogiras/MegaPint-Screenshot.git#v1.0.2",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "47ad7d4eb6efd0292eb01dcc3970118960b3b051"
+      "hash": "501c9c5829b4eeb3865ff176aaa98c4e81680fdc"
     },
     "com.tiogiras.megapint-validators": {
-      "version": "https://github.com/tiogiras/MegaPint-Validators.git#development",
+      "version": "https://github.com/tiogiras/MegaPint-Validators.git#v1.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "69ff7dafa0a9296a64c2de7a815bcfefcdb8df60"
+      "hash": "c26a70748373e3b7e6a6b9aa8b142d4ea89dabb8"
     },
     "com.unity.collab-proxy": {
       "version": "2.4.4",

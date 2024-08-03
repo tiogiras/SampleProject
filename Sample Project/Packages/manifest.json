@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "com.tiogiras.megapint": "https://github.com/tiogiras/MegaPint.git#development",
-    "com.tiogiras.megapint-autosave": "https://github.com/tiogiras/MegaPint-AutoSave.git#development",
-    "com.tiogiras.megapint-batesting": "https://github.com/tiogiras/MegaPint-BATesting.git#development",
-    "com.tiogiras.megapint-playmodestartscene": "https://github.com/tiogiras/megapint-playmodestartscene.git#development",
-    "com.tiogiras.megapint-screenshot": "https://github.com/tiogiras/MegaPint-Screenshot.git#development",
-    "com.tiogiras.megapint-validators": "https://github.com/tiogiras/MegaPint-Validators.git#development",
+    "com.tiogiras.megapint": "https://github.com/tiogiras/MegaPint.git#v1.3.0",
+    "com.tiogiras.megapint-autosave": "https://github.com/tiogiras/MegaPint-AutoSave.git#v1.1.0",
+    "com.tiogiras.megapint-batesting": "https://github.com/tiogiras/MegaPint-BATesting.git#v1.0.0",
+    "com.tiogiras.megapint-playmodestartscene": "https://github.com/tiogiras/megapint-playmodestartscene.git#v1.1.0",
+    "com.tiogiras.megapint-screenshot": "https://github.com/tiogiras/MegaPint-Screenshot.git#v1.0.2",
+    "com.tiogiras.megapint-validators": "https://github.com/tiogiras/MegaPint-Validators.git#v1.1.0",
     "com.unity.collab-proxy": "2.4.4",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
